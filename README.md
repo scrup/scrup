@@ -7,7 +7,6 @@
 
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1a/25/13/1a25138b1d5523d3bcc86aa065fc5f18.gif">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scrup&layout=compact)
 
 Here are some ideas to get you started:
 
