@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on new project involving ai agents
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning flask
 - 📫 How to reach me: azza_chouikh@yahoo.com
 - ⚡ Fun fact: i m an avid reader and gamer 
 
